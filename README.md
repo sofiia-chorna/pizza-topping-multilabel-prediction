@@ -5,8 +5,8 @@
 This project focuses on pizza toppings detection using various machine learning and deep learning models. The dataset consists of **real pizza images**, and we explore different methodologies for feature extraction and multilabel prediction.
 
 ## Status
-* Data preparation + some statistics about data (WIP)
-* ResNet + Classifier (TODO)
+* Data preparation + some statistics about data (OK)
+* ResNet + Classifier (WIP)
    * Random Forest
    * SVM
    * KNN
