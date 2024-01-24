@@ -9,11 +9,11 @@ This project focuses on pizza toppings detection using various machine learning 
 * CNN (OK)
 * Feature Extraction (OK)
 * ResNet + Classifier
-   * Logical Regression (WIP)
-   * Random Forest
-   * SVM
+   * Random Forest (OK)
+   * Perceptron (OK)
+   * SVM (WIP)
    * KNN
-   * Perceptron
+   * Logical Regression (ONHOLD)
 * Pre-trained CNN + MLP (TODO)
    * ResNext + MLP
    * AlexNet + MLP
