@@ -7,20 +7,11 @@ This project focuses on pizza toppings detection using various machine learning 
 ## Status
 * Data preparation + some statistics about data (OK)
 * CNN (OK)
+* EfficientNet (OK)
 * Feature Extraction (OK)
 * ResNet + Classifier
    * Random Forest (OK)
    * Perceptron (OK)
-   * SVM (WIP)
-   * KNN
-   * Logical Regression (ONHOLD)
-* Pre-trained CNN + MLP (TODO)
-   * ResNext + MLP
-   * AlexNet + MLP
-   * Learning AlexNet + MLP
-   * VGG + MLP
-* Fine Tuning (TODO)
-   * EfficientNet
 * Compare it with CLAP OpenAI (TODO)
 * Bonus: Deep learning
 * Bonus: Same with the real images
